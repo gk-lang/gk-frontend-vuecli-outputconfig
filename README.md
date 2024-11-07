@@ -1,0 +1,1 @@
+# gk-frontend-vuecli-outputconfig
