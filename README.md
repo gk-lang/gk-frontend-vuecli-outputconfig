@@ -1,1 +1,3 @@
-# gk-frontend-vuecli-outputconfig
+## 模版账号密码
+
+13554269293/123456
